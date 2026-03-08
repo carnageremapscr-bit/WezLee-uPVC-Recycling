@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://www.wezleeupvcrecycling.co.uk/sitemap.xml
