@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://www.wezleeupvcrecycling.co.uk/sitemap.xml
+Sitemap: https://wezlee-upvc-recycling-production.up.railway.app/sitemap.xml
